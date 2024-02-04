@@ -6,4 +6,4 @@ jobs:
       - name: print greeting
         run: echo "hello from git actions"
       - name: print goodbye
-        run: echo "Seeya!
+        run: echo "Seeya!"
